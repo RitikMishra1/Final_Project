@@ -1,0 +1,664 @@
+﻿Job Require Skill ,Also Require Skill,Probability
+discrete mathematics,algorithms,100
+linear algebra,algorithms,100
+c#,analysis,100
+apache beam,agile,100
+data catalogs,agile,100
+data cleanliness,agile,100
+pubsub,agile,100
+scio,agile,100
+video assets,agile,100
+data table design ,analytic,100
+cuda,analytic,100
+nvidia gpus,analytic,100
+artifical intelligence,algorithms,100
+agile,analytic,95
+agile,python,86
+agile,sql,86
+image processing,algorithms,80
+algorithms,python,77
+spark ml,algorithms,75
+algorithms,machine learning,72
+agile,aws,68
+agile,communication,68
+agile,analysis,68
+data mining,algorithms,67
+calculus,algorithms,67
+julia,algorithms,67
+mapreduce,algorithms,67
+flink,agile,67
+algorithms,analysis,65
+algorithms,analytic,65
+powerbi,analysis,64
+algorithms,statistics,60
+algorithms,data science,60
+classification,algorithms,58
+algorithms,math,56
+agile,cloud,55
+agile,excel,55
+pipeline ,agile,55
+agile,insights,55
+keras,algorithms,54
+regression,analysis,53
+reporting ,analysis,52
+algorithms,sql,51
+algorithms,communication,51
+algorithms,insights,51
+agile,data science,50
+data warehousing ,agile,50
+graph-based,algorithms,50
+pytorch,algorithms,50
+power apps,agile,50
+agile,big data,50
+kafka,agile,50
+xgboost,analytic,50
+probability,algorithms,50
+apache airflo,agile,50
+graph-based,agile,50
+c++ ,analysis,50
+xgboost,analysis,50
+data security,analytic,50
+rest api,analytic,50
+sqs,analytic,50
+caffe,analytic,50
+apache airflo,apache,50
+data security,analysis,50
+power apps,algorithms,50
+rest api,algorithms,50
+caffe,algorithms,50
+sqs,analysis,50
+algorithms,modeling,49
+scikit-learn,analysis,45
+clustering,algorithms,45
+agile,spark,45
+software engineering,algorithms,45
+agile,machine learning,45
+algorithms,predictive,44
+predictive,algorithms,44
+natural language processing,algorithms,44
+data structure,algorithms,44
+math,algorithms,43
+dax,agile,43
+looker,analysis,43
+gcp,analytic,43
+looker,analytic,43
+gcp,analysis,43
+google cloud,analysis,43
+agile,data engineering,41
+agile,tableau,41
+tensorflow,algorithms,41
+agile,ml,41
+tableau,analysis,40
+apache,apache spark,40
+apache spark,apache,40
+apache,aws,40
+apache,azure,40
+apache,cloud,40
+apache,insights,40
+apache,kubernetes,40
+apache,python,40
+apache,spark,40
+apache,sql,40
+github,analysis,40
+structured and unstructured data,agile,40
+version control,analytic,40
+version control,aws,40
+analytic,analysis,39
+statistics,algorithms,39
+sql,analysis,39
+data structure,analysis,39
+machine learning,algorithms,38
+hadoop,analysis,38
+algorithms,excel,37
+cloud,analysis,37
+math,analysis,37
+algorithms,data mining,37
+python,analysis,36
+ml,analysis,36
+databricks,analysis,36
+agile,data pipeline,36
+agile,modeling,36
+java,analysis,36
+agile,statistics,36
+pandas,algorithms,36
+predictive,analysis,35
+algorithms,git,35
+data science,algorithms,34
+statistics,analysis,34
+data visualization,analysis,34
+modeling,algorithms,33
+matlab,analysis,33
+modeling,analysis,33
+big data,algorithms,33
+matlab,algorithms,33
+calculus,analysis,33
+nosql,analysis,33
+git,algorithms,33
+business intelligence,analysis,33
+algorithms,collaboration,33
+natural language processing,analysis,33
+numpy,analytic,33
+flink,algorithms,33
+kafka,analysis,33
+mapreduce,c++ ,33
+spark,analysis,32
+aws,agile,32
+agile,azure,32
+agile,git,32
+data pipeline,analysis,32
+machine learning,analysis,31
+data visualization,algorithms,31
+big data,agile,31
+algorithms,cloud,30
+data engineering,analysis,30
+r,algorithms,30
+relational databases,algorithms,30
+r,analysis,30
+git,analysis,30
+relational databases,analytic,30
+google cloud,algorithms,29
+business intelligence,algorithms,29
+azure,algorithms,29
+data pipeline,agile,29
+kubernetes,apache,29
+azure,agile,29
+kubernetes,agile,29
+kubernetes,analytic,29
+dax,algorithms,29
+python,algorithms,28
+algorithms,big data,28
+snowflake,agile,28
+pipeline ,analysis,27
+pandas,analysis,27
+regression,algorithms,27
+clustering,analysis,27
+data engineering,agile,27
+agile,pipeline ,27
+agile,data visualization,27
+agile,reporting ,27
+java,algorithms,27
+agile,math,27
+powerbi,agile,27
+agile,r,27
+data science,analysis,26
+spark,algorithms,25
+probability,analysis,25
+spark,agile,25
+spark ml,apache,25
+probability,agile,25
+nosql,agile,25
+classification,agile,25
+c++ ,analytic,25
+c++ ,data science,25
+c++ ,hadoop,25
+c++ ,java,25
+c++ ,mapreduce,25
+c++ ,matlab,25
+c++ ,ml,25
+c++ ,python,25
+c++ ,r,25
+c++ ,sql,25
+analytic,algorithms,24
+hadoop,agile,24
+cloud,algorithms,23
+algorithms,spark,23
+algorithms,tableau,23
+agile,snowflake,23
+agile,curiosity,23
+agile,java,23
+java,agile,23
+algorithms,data visualization,23
+tensorflow,analysis,23
+agile,hadoop,23
+matlab,analytic,22
+snowflake,analysis,22
+reporting ,analytic,22
+r,agile,22
+snowflake,analytic,22
+tableau,algorithms,21
+cloud,agile,21
+data engineering,algorithms,21
+data mining,analysis,21
+algorithms,tensorflow,21
+azure,analysis,21
+sql,algorithms,20
+version control,algorithms,20
+structured and unstructured data,algorithms,20
+github,analytic,20
+apache,algorithms,20
+apache spark,algorithms,20
+apache,big data,20
+apache,communication,20
+apache,data science,20
+apache,databricks,20
+apache,excel,20
+apache,google cloud,20
+apache,hadoop,20
+apache,java,20
+apache,kafka,20
+apache,machine learning,20
+apache,ml,20
+apache,spark ml,20
+relational databases,analysis,20
+ml,agile,20
+regression,agile,20
+apache,agile,20
+apache spark,agile,20
+structured and unstructured data,data science,20
+apache,apache airflo,20
+apache,collaboration,20
+apache,data pipeline,20
+apache,gcp,20
+apache,git,20
+apache,nosql,20
+apache,software engineering,20
+structured and unstructured data,analytic,20
+github,agile,20
+image processing,analysis,20
+github,aws,20
+apache,analysis,20
+apache spark,analysis,20
+algorithms,aws,19
+algorithms,leadership,19
+aws,analysis,19
+algorithms,r,19
+algorithms,data structure,19
+big data,analysis,19
+data visualization,agile,19
+tableau,agile,19
+modeling,analytic,19
+hadoop,algorithms,19
+analytic,agile,18
+databricks,agile,18
+agile,collaboration,18
+agile,manufacturing,18
+databricks,algorithms,18
+agile,algorithms,18
+clustering,agile,18
+agile,predictive,18
+databricks,analytic,18
+pandas,analytic,18
+scikit-learn,analytic,18
+scikit-learn,agile,18
+aws,algorithms,17
+julia,analytic,17
+sql,agile,17
+kafka,apache,17
+numpy,analysis,17
+business intelligence,analytic,17
+data warehousing ,aws,17
+pytorch,agile,17
+julia,agile,17
+nosql,algorithms,17
+data warehousing ,analytic,17
+nosql,analytic,17
+numpy,algorithms,17
+data warehousing ,algorithms,17
+numpy,aws,17
+classification,analysis,17
+numpy,agile,17
+algorithms,ml,16
+ml,algorithms,16
+python,agile,16
+algorithms,business intelligence,16
+algorithms,classification,16
+algorithms,azure,16
+algorithms,data engineering,16
+algorithms,keras,16
+ml,analytic,16
+r,analytic,15
+aws,analytic,15
+reporting ,agile,15
+git,agile,15
+tableau,analytic,15
+keras,analytic,15
+keras,agile,15
+big data,analytic,14
+data science,agile,14
+agile,data warehousing ,14
+algorithms,pytorch,14
+google cloud,apache,14
+algorithms,manufacturing,14
+agile,business intelligence,14
+agile,dax,14
+data pipeline,algorithms,14
+algorithms,java,14
+dax,analysis,14
+agile,powerbi,14
+agile,leadership,14
+agile,nosql,14
+agile,kafka,14
+dax,azure,14
+looker,agile,14
+agile,project management,14
+agile,tensorflow,14
+tensorflow,agile,14
+agile,classification,14
+agile,regression,14
+google cloud,agile,14
+tensorflow,analytic,14
+kubernetes,analysis,14
+gcp,apache,14
+analytic,sql,13
+data science,analytic,13
+git,analytic,13
+sql,analytic,13
+data engineering,analytic,12
+algorithms,clustering,12
+modeling,agile,12
+algorithms,software engineering,12
+business intelligence,agile,12
+machine learning,agile,12
+statistics,agile,12
+cloud,analytic,12
+analytic,communication,11
+data pipeline,analytic,11
+math,agile,11
+aws,python,11
+aws,sql,11
+data structure,agile,11
+snowflake,algorithms,11
+snowflake,aws,11
+natural language processing,agile,11
+natural language processing,aws,11
+matlab,c++ ,11
+analytic,python,10
+analytic,modeling,10
+python,analytic,10
+reporting ,algorithms,10
+relational databases,agile,10
+relational databases,aws,10
+machine learning,analytic,9
+predictive,analytic,9
+algorithms,natural language processing,9
+algorithms,regression,9
+algorithms,reporting ,9
+agile,databricks,9
+algorithms,linear algebra,9
+algorithms,project management,9
+algorithms,julia,9
+databricks,apache,9
+algorithms,hadoop,9
+algorithms,data pipeline,9
+agile,structured and unstructured data,9
+agile,flink,9
+agile,kubernetes,9
+software engineering,azure,9
+agile,pytorch,9
+algorithms,agile,9
+agile,clustering,9
+predictive,agile,9
+agile,team-oriented,9
+data visualization,analytic,9
+software engineering,analytic,9
+agile,data structure,9
+software engineering,agile,9
+algorithms,image processing,9
+software engineering,machine learning,9
+pipeline ,analytic,9
+algorithms,pandas,9
+powerbi,analytic,9
+aws,machine learning,9
+agile,scikit-learn,9
+pandas,data science,9
+software engineering,apache,9
+software engineering,analysis,9
+scikit-learn,algorithms,9
+clustering,analytic,9
+agile,data mining,9
+agile,keras,9
+pandas,aws,9
+scikit-learn,aws,9
+pipeline ,aws,9
+analytic,data science,8
+analytic,excel,8
+analytic,reporting ,8
+azure,apache,8
+keras,analysis,8
+pytorch,analytic,8
+pytorch,analysis,8
+pytorch,data science,8
+nosql,apache,8
+data mining,agile,8
+keras,aws,8
+pytorch,aws,8
+analytic,insights,7
+statistics,analytic,7
+algorithms,matlab,7
+algorithms,relational databases,7
+algorithms,spark ml,7
+git,aws,7
+analytic,machine learning,6
+analytic,aws,6
+analytic,tableau,6
+analytic,cloud,6
+analytic,manufacturing,6
+analytic,ml,6
+snowflake,communication,6
+data structure,analytic,6
+aws,data science,6
+aws,git,6
+aws,statistics,6
+algorithms,google cloud,5
+java,analytic,5
+analytic,git,5
+algorithms,calculus,5
+algorithms,discrete mathematics,5
+hadoop,apache,5
+java,apache,5
+spark,apache,5
+algorithms,mapreduce,5
+algorithms,self-starter,5
+agile,power apps,5
+agile,probability,5
+algorithms,databricks,5
+agile,looker,5
+agile,relational databases,5
+agile,julia,5
+agile,software engineering,5
+algorithms,nosql,5
+algorithms,probability,5
+agile,apache,5
+agile,apache airflo,5
+agile,apache beam,5
+agile,apache spark,5
+agile,data catalogs,5
+agile,data cleanliness,5
+agile,google cloud,5
+agile,graph-based,5
+agile,pubsub,5
+agile,scio,5
+agile,video assets,5
+algorithms,dax,5
+algorithms,snowflake,5
+machine learning,aws,5
+spark,aws,5
+tensorflow,data science,5
+hadoop,analytic,5
+spark,analytic,5
+algorithms,artifical intelligence,5
+agile,github,5
+agile,natural language processing,5
+hadoop,aws,5
+tensorflow,aws,5
+hadoop,c++ ,5
+java,c++ ,5
+agile,numpy,5
+math,analytic,4
+analytic,big data,4
+analytic,statistics,4
+python,aws,4
+aws,apache,4
+cloud,apache,4
+data pipeline,communication,4
+sql,aws,4
+data pipeline,sql,4
+azure,business intelligence,4
+business intelligence,azure,4
+azure,communication,4
+azure,dax,4
+azure,excel,4
+azure,manufacturing,4
+azure,software engineering,4
+azure,sql,4
+azure,tableau,4
+data science,aws,4
+aws,insights,4
+aws,spark,4
+business intelligence,aws,4
+aws,cloud,4
+cloud,aws,4
+aws,excel,4
+aws,snowflake,4
+statistics,aws,4
+data pipeline,apache,4
+data pipeline,manufacturing,4
+data pipeline,ml,4
+azure,analytic,4
+aws,version control,4
+azure,aws,4
+data mining,aws,4
+r,c++ ,4
+analytic,data engineering,3
+analytic,predictive,3
+big data,apache,3
+analytic,r,3
+analytic,collaboration,3
+analytic,data pipeline,3
+analytic,business intelligence,3
+analytic,leadership,3
+analytic,data visualization,3
+analytic,gcp,3
+analytic,looker,3
+analytic,snowflake,3
+data engineering,aws,3
+analytic,relational databases,3
+analytic,tensorflow,3
+data engineering,communication,3
+data visualization,communication,3
+data visualization,aws,3
+data engineering,data science,3
+data engineering,machine learning,3
+data engineering,math,3
+data engineering,python,3
+data engineering,spark,3
+data engineering,statistics,3
+algorithms,version control,2
+algorithms,structured and unstructured data,2
+algorithms,apache,2
+algorithms,apache spark,2
+algorithms,graph-based,2
+ml,apache,2
+sql,apache,2
+algorithms,multitask,2
+math,communication,2
+tableau,communication,2
+aws,collaboration,2
+aws,data engineering,2
+aws,data warehousing ,2
+aws,modeling,2
+modeling,aws,2
+tableau,azure,2
+analytic,math,2
+analytic,matlab,2
+analytic,self-starter,2
+analytic,databricks,2
+analytic,numpy,2
+analytic,pandas,2
+analytic,scikit-learn,2
+analytic,xgboost,2
+analytic,nosql,2
+analytic,version control,2
+analytic,curiosity,2
+analytic,keras,2
+analytic,kubernetes,2
+analytic,spark,2
+python,apache,2
+algorithms,flink,2
+algorithms,numpy,2
+aws,manufacturing,2
+algorithms,data warehousing ,2
+aws,business intelligence,2
+aws,communication,2
+aws,data visualization,2
+aws,math,2
+math,aws,2
+ml,data science,2
+modeling,data science,2
+git,apache,2
+ml,data pipeline,2
+algorithms,scikit-learn,2
+algorithms,power apps,2
+algorithms,rest api,2
+aws,numpy,2
+aws,pandas,2
+aws,relational databases,2
+aws,scikit-learn,2
+math,data engineering,2
+spark,data engineering,2
+aws,azure,2
+aws,github,2
+aws,hadoop,2
+aws,keras,2
+aws,ml,2
+ml,aws,2
+aws,predictive,2
+predictive,aws,2
+aws,pytorch,2
+aws,tensorflow,2
+aws,data mining,2
+aws,natural language processing,2
+aws,pipeline ,2
+ml,c++ ,2
+algorithms,caffe,2
+data science,sql,1
+sql,data science,1
+data science,apache,1
+machine learning,apache,1
+statistics,communication,1
+data science,communication,1
+sql,communication,1
+sql,data pipeline,1
+sql,azure,1
+machine learning,manufacturing,1
+machine learning,software engineering,1
+analytic,github,1
+analytic,java,1
+analytic,julia,1
+analytic,software engineering,1
+analytic,data security,1
+analytic,data structure,1
+analytic,data table design ,1
+analytic,data warehousing ,1
+analytic,pipeline ,1
+analytic,rest api,1
+analytic,sqs,1
+analytic,pytorch,1
+analytic,c++ ,1
+analytic,caffe,1
+analytic,cuda,1
+analytic,nvidia gpus,1
+analytic,powerbi,1
+data science,insights,1
+data science,machine learning,1
+machine learning,data science,1
+data science,ml,1
+data science,modeling,1
+data science,pandas,1
+data science,python,1
+analytic,azure,1
+data science,pytorch,1
+data science,structured and unstructured data,1
+data science,tensorflow,1
+analytic,hadoop,1
+analytic,structured and unstructured data,1
+analytic,clustering,1
+python,communication,1
+python,data science,1
+data science,data engineering,1
+machine learning,data engineering,1
+python,data engineering,1
+statistics,data engineering,1
+data science,c++ ,1
+python,c++ ,1
+sql,c++ ,1
